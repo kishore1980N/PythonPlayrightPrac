@@ -18,3 +18,8 @@ This is a sample python code
 This is a test
 """
 print(len(name))
+
+def addnumber(a,b):
+    sum = a+b
+    print("Sum =",sum)
+
